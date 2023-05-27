@@ -1,7 +1,7 @@
 # Flutter-Weather-App
 Flutter Weather App using REST API and GetX
 
-Open project in Android Studio \\
+Open project in Android Studio \n
 goto "pubspec.yaml" file
 press "Pub get"
 goto "main.dart"
